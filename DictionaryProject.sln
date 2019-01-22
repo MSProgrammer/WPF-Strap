@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryProject", "DictionaryProject\DictionaryProject.csproj", "{D7A65249-BF89-4CF9-B712-7A9DDBE55287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A65249-BF89-4CF9-B712-7A9DDBE55287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A65249-BF89-4CF9-B712-7A9DDBE55287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A65249-BF89-4CF9-B712-7A9DDBE55287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A65249-BF89-4CF9-B712-7A9DDBE55287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D24956-143A-4266-A2CB-08ED54E01AAC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DictionaryProject\\DictionaryProject.csproj
+		SccProjectName1 = DictionaryProject
+		SccLocalPath1 = DictionaryProject
+	EndGlobalSection
+EndGlobal
